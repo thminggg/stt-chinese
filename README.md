@@ -12,8 +12,7 @@ python -m venv venv
 source venv/bin/activate
 
 # install required package
-pip install opencc
-pip install pyperclip
+ pip install -r requirements.txt
 ```
 
 ## (Optional) Set Python3 as default Python
